@@ -39,12 +39,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   https://www.guusmeeuwis.nl
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  https://www.guusmeeuwis.nl/nieuws
+  <img src="readme-images/Schermopname1.png" width="375px" alt="nieuwspagina van de website van Guus Meeuwis">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  https://www.guusmeeuwis.nl/nieuws 
+  <img src="readme-images/Schermopname2.png" width="375px" alt="Muziekpagina van de website van Guus Meeuwis">
  
 </details>
 
@@ -57,7 +57,18 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+Ballon 
+1. Alleen belangrijke informatie zodat de gebruiker niet afgeleid wordt.
+2. 1 primaire actie per scherm.
+3. Grote duidelijke knoppen en acties.
+Bril
+1. Veel contrast is belangrijk.
+2. Kleine dingen zijn niet te lezen.
+3. Computermuis was kwijt.
 
+Testen screenreader
+Website van Guus meeuwis was best aardig te doen. Veel alt tekst stond wel dubbel of werd zelfs 3 keer gezegd. Linkjes waren duidelijk beschreven
+en kon er relatief goed doorheen.
 </details>
 
 
