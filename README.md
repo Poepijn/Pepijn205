@@ -40,11 +40,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   https://www.guusmeeuwis.nl/nieuws
-  <img src="readme-images/Schermopname1.png" width="375px" alt="nieuwspagina van de website van Guus Meeuwis">
+  <img src="readme-images/www.guusmeeuwis.nl_muziek(iPhone 6_7_8).png" width="375px" alt="nieuwspagina van de website van Guus Meeuwis">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   https://www.guusmeeuwis.nl/nieuws 
-  <img src="readme-images/Schermopname2.png" width="375px" alt="Muziekpagina van de website van Guus Meeuwis">
+  <img src="readme-images/www.guusmeeuwis.nl_nieuws(iPhone 6_7_8).png" width="375px" alt="Muziekpagina van de website van Guus Meeuwis">
  
 </details>
 
