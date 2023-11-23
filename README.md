@@ -58,7 +58,17 @@ https://www.guusmeeuwis.nl/muziek
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
-
+Test ballon
+-Lastig focussen op 1 ding
+-1 primaire actie per scherm zou helpen
+-Teveel tekst is onmogelijk te lezen
+-Grote knoppen
+Test bril
+-Grote knoppen en iconen
+-Zoekbalk helpt goed, het is lastig om te zoeken met scrollen door producten
+-Muis icoontje op het scherm was snel kwijt
+-Veel kleine tekst is niet leesbaar
+-Veel contrast
 </details>
 
 
@@ -69,10 +79,10 @@ https://www.guusmeeuwis.nl/muziek
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdown1.jpg" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/breakdown2.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
@@ -90,16 +100,17 @@ https://www.guusmeeuwis.nl/muziek
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+Wat goed gaat is de html en de basis-css van mijn website. Het begint al te lijken op de website die ik heb gekozen, alleen de details die het echt proffesioneel maken missen nog. Waar ik moeite mee heb is de 
+form. Ik heb er nog niet heel goed naar gekeken maar ik vind dit onderdeel nog wel lastig. De header is ook nog niet helemaal top maar hier heb ik wel een stuk meer vertrouwen in.
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
   | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Pepijn         | Jim                | Thijs        | Tobias           |
+  | Form           | en dit             | en ik dit    | en dan ik dat    |
+  | Dunne lijntjes | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | Op de website  | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
