@@ -59,16 +59,20 @@ https://www.guusmeeuwis.nl/muziek
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
 Test ballon
--Lastig focussen op 1 ding
--1 primaire actie per scherm zou helpen
--Teveel tekst is onmogelijk te lezen
--Grote knoppen
+<ul>
+  <li>Lastig focussen op 1 ding</li>
+<li>1 primaire actie per scherm zou helpen</li>
+<li>Teveel tekst is onmogelijk te lezen</li>
+<li>Grote knoppen</li>
+  </ul>
 Test bril
--Grote knoppen en iconen
--Zoekbalk helpt goed, het is lastig om te zoeken met scrollen door producten
--Muis icoontje op het scherm was snel kwijt
--Veel kleine tekst is niet leesbaar
--Veel contrast
+<ul>
+<li>Grote knoppen en iconen</li>
+<li>Zoekbalk helpt goed, het is lastig om te zoeken met scrollen door producten</li>
+<li>Muis icoontje op het scherm was snel kwijt</li>
+<li>Veel kleine tekst is niet leesbaar</li>
+<li>Veel contrast</li>
+  </ul>
 </details>
 
 
