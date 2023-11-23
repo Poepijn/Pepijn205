@@ -40,11 +40,12 @@ https://www.guusmeeuwis.nl
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   https://www.guusmeeuwis.nl/nieuws
-  <img src="readme-images/" width="375px" alt="omschrijving van de pagina">
+ <img src="readme-images/www.guusmeeuwis.nl_nieuws(iPhone 6_7_8).png" width="375px" alt="omschrijving van de pagina">
+
 
   #### Screenshot(s) van de tweede pagina (small screen):
 https://www.guusmeeuwis.nl/muziek 
-  <img src="readme-images/" width="375px" alt="omschrijving van de pagina">
+    <img src="readme-images/www.guusmeeuwis.nl_muziek(iPhone 6_7_8).png" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
@@ -68,10 +69,10 @@ https://www.guusmeeuwis.nl/muziek
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/" width="375px" alt="breakdown van een dynamisch deel">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
