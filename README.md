@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
- Pepijn Lenten
+  Sanne 't Hooft (vervangen door jouw naam)
 
   #### Je startniveau:
-  Blauw
+  hier je startniveau (kies uit zwart, rood óf blauw)
 
   #### Je focus:
-  Surface plane
+  hier je focus (kies uit responsive óf surface plane)
  
 </details>
 
@@ -36,15 +36,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  https://www.guusmeeuwis.nl
+  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  https://www.guusmeeuwis.nl/nieuws
-  <img src="readme-images/www.guusmeeuwis.nl_muziek(iPhone 6_7_8).png" width="375px" alt="nieuwspagina van de website van Guus Meeuwis">
+  hier de naam van de pagina  
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  https://www.guusmeeuwis.nl/nieuws 
-  <img src="readme-images/www.guusmeeuwis.nl_nieuws(iPhone 6_7_8).png" width="375px" alt="Muziekpagina van de website van Guus Meeuwis">
+  hier de naam van de pagina  
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
@@ -57,18 +57,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
-Ballon 
-1. Alleen belangrijke informatie zodat de gebruiker niet afgeleid wordt.
-2. 1 primaire actie per scherm.
-3. Grote duidelijke knoppen en acties.
-Bril
-1. Veel contrast is belangrijk.
-2. Kleine dingen zijn niet te lezen.
-3. Computermuis was kwijt.
 
-Testen screenreader
-Website van Guus meeuwis was best aardig te doen. Veel alt tekst stond wel dubbel of werd zelfs 3 keer gezegd. Linkjes waren duidelijk beschreven
-en kon er relatief goed doorheen.
 </details>
 
 
@@ -79,10 +68,10 @@ en kon er relatief goed doorheen.
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/breakdown1.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/breakdown2.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
