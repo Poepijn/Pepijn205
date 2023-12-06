@@ -171,7 +171,10 @@ form. Ik heb er nog niet heel goed naar gekeken maar ik vind dit onderdeel nog w
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
-
+focus state verbeteren
+skip link
+dark en light + high contrast mode
+increase text size 200%
 </details>
 
 
