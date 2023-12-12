@@ -107,9 +107,6 @@ Test bril
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/breakdown2.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
-
 </details>
 
 
@@ -125,6 +122,9 @@ Test bril
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 Wat goed gaat is de html en de basis-css van mijn website. Het begint al te lijken op de website die ik heb gekozen, alleen de details die het echt proffesioneel maken missen nog. Waar ik moeite mee heb is de 
 form. Ik heb er nog niet heel goed naar gekeken maar ik vind dit onderdeel nog wel lastig. De header is ook nog niet helemaal top maar hier heb ik wel een stuk meer vertrouwen in. Doordat ik ook een hele hoop vergeten ben van vorig jaar vind ik het ook nog lastig om de juiste selectoren te gebruiken. Ik selecteer vaak niet specefiek gennoeg waardoor alles verandert.
+
+ <img src="readme-images/Schermopname(184).png" width="375px">
+ <img src="readme-images/Schermopname(185).png" width="375px">
 
   ### Agenda voor meeting
   samen met je groepje opstellen
@@ -157,7 +157,9 @@ form. Ik heb er nog niet heel goed naar gekeken maar ik vind dit onderdeel nog w
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 Ik had in week 3 nog steeds moeite met de form. Ik heb een hele tijd gekloot met de afbeelding en daarvoor het witte blokje met de form erin. Ik heb het geprobeert met onder andere position relative en absolute maar dit ging hele gekke dingen doen. Ook heb ik deze week de header en mijn nav helemaal netjes gemaakt. Daarnaast heb ik deze week vooral gefocust op de vormgeving van mijn pagina. Ik heb dus alle articles en koppen netjes gemaakt en alle padding en margin mooi gemaakt. ik ben deze week ook gaan kijken naar animaties maar heb er toen toch voor besloten dat ik voor responsive ga. De animaties gingen me best goed af maar toen ik naar de rest van het lijstje keek leek me responsive toch de betere optie. Ik heb ook alvast een beetje nagedacht over hoe ik mijn website wat leuker kan maken, hij is nu nog namelijk een beetje saai. Het is me deze week ook gelukt om links van mijn artikelen een zwart lijntje te krijgen, dit was een stuk makkelijker dan ik dacht.....
-
+ <img src="readme-images/Schermopname(186).png" width="375px">
+  <img src="readme-images/Schermopname(188).png" width="375px">
+   <img src="readme-images/Schermopname(189).png" width="375px">
   ### Agenda voor meeting
   samen met je groepje opstellen
 
@@ -207,6 +209,17 @@ Ik had nog een vraagje over forms waar ik niet helemaal uitkwam. Ook vraag ik me
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 Ik was deze week erg aan het struggelen met de selectoren. Doordat mijn code steeds langer werdt moest ik ook steeds specefieker zijn in het selecteren van elementen. Veel code die ik al geschreven had paste toe op andere stukken code waardoor het niet deed wat ik wilde, zoals de sections en article op mijn muziekpagina. Ik wou een simpele hover maken op mijn images maar dit bleek toch nog een stuk lastiger te zijn omdat alles elkaar maar bleef selecteren. Verder ben ik eindelijk geslaagd met de form, de achtergrond en voorgrond staan eindelijk waar ik erg blij mee ben. Ook de form zelf doet het waar ik wat mee heb geëxperimenteert. Ik ben deze week ook druk bezig geweest met de states. Ik heb op alles een hover en active state gezet op mijn website zo duidelijk mogelijk te maken. Ik heb ook de focus state een beetje aangepast zodat hij nu wat netter is. Ik ben ook bezig geweest met de paginanummers onder de artikelen maar deze zijn nog niet helemaal af. Ik heb wel nog een probleempje, als ik over mijn afbeelding hover dan gaat hij over de navigatie wat een beetje gek is, dit moet ik nog even navragen.
+
+ <img src="readme-images/Schermopname(190).png" width="375px">
+  <img src="readme-images/Schermopname(191).png" width="375px">
+   <img src="readme-images/Schermopname(192).png" width="375px">
+ <img src="readme-images/Schermopname(193).png" width="375px">
+  <img src="readme-images/Schermopname(194).png" width="375px">
+   <img src="readme-images/Schermopname(195).png" width="375px">
+    <img src="readme-images/Schermopname(196).png" width="375px">
+     <img src="readme-images/Schermopname(197).png" width="375px">
+      <img src="readme-images/Schermopname(198).png" width="375px">
+ 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
