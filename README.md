@@ -263,7 +263,8 @@ Ik was deze week erg aan het struggelen met de selectoren. Doordat mijn code ste
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
+  1. Learn web(03-08-2023) How To Overlay A Text On An Image | CSS Overlay[Video], 
+Youtube. Geraadpleegd op: 09-12-2023, van:https://www.youtube.com/watch?v=Qt-70hrdJZI
   2. bron 2
   3. ...
 
