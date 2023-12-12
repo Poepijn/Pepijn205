@@ -195,6 +195,8 @@ Ik had nog een vraagje over forms waar ik niet helemaal uitkwam. Ook vraag ik me
   <li>Focus state verbteren, hij heeft nu een rare padding waardoor het af en toe lastig te lezen is.</li>
   <li>Skip link? Weet niet wat het precies inhoudt maar ik heb het niet.</li>
   <li>Ik heb in de input engelse tekst geschreven die hij in het Nederlands voorleest, dit is onverstaanbaar en moet ik nog aanpassen.</li>
+  <li> Ik heb mijn code ook nog door de validator gehaald en daar kwam uit dat ik het time element niet goed heb gebruikt. Er moet hier nog een datetime bij zodat de zoekmachine hiernaar kan zoeken, dit heb ik ook aangepast.
+</li>
 </ul>
 
 ## Voortgang 3 (week 4)
@@ -205,7 +207,6 @@ Ik had nog een vraagje over forms waar ik niet helemaal uitkwam. Ook vraag ik me
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 Ik was deze week erg aan het struggelen met de selectoren. Doordat mijn code steeds langer werdt moest ik ook steeds specefieker zijn in het selecteren van elementen. Veel code die ik al geschreven had paste toe op andere stukken code waardoor het niet deed wat ik wilde, zoals de sections en article op mijn muziekpagina. Ik wou een simpele hover maken op mijn images maar dit bleek toch nog een stuk lastiger te zijn omdat alles elkaar maar bleef selecteren. Verder ben ik eindelijk geslaagd met de form, de achtergrond en voorgrond staan eindelijk waar ik erg blij mee ben. Ook de form zelf doet het waar ik wat mee heb geëxperimenteert. Ik ben deze week ook druk bezig geweest met de states. Ik heb op alles een hover en active state gezet op mijn website zo duidelijk mogelijk te maken. Ik heb ook de focus state een beetje aangepast zodat hij nu wat netter is. Ik ben ook bezig geweest met de paginanummers onder de artikelen maar deze zijn nog niet helemaal af. Ik heb wel nog een probleempje, als ik over mijn afbeelding hover dan gaat hij over de navigatie wat een beetje gek is, dit moet ik nog even navragen.
-
   ### Agenda voor meeting
   samen met je groepje opstellen
 
