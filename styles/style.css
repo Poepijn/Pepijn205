@@ -24,8 +24,39 @@
 	--a-active: rgba(222, 97, 35, 0.751);
 	--color-footer-text: black;
 	--border-blokjeA: grey;
+	--color-muziekButton: rgb(241, 167, 30) ;
+	--color-muziekActive: rgb(237, 185, 90) ;
+	--color-muziekHover: rgba(0, 0, 0, 0.4);
+	--button-colorForm: white;
+	--color-label:black;
+	--color-pMuziek:white;
 
 }
+
+@media (prefers-color-scheme:dark) {
+	:root { 
+--background:rgb(66, 66, 66);
+--menu-border:rgb(200, 200, 200);
+--time-color:rgb(180, 180, 180);
+--button-color: #262626;
+--button-background: rgb(234, 234, 234);
+--color-label:white;
+--color-a: rgb(173, 121, 71);
+	--color-text: #f1f1f1;
+	--color-hover: rgb(233, 159, 95);
+	--focus-stateA: rgba(240, 171, 43, 0.626);
+	--a-active: rgba(222, 97, 35, 0.751);
+	--color-footer-text: rgb(236, 236, 236);
+	--border-blokjeA: grey;
+	--color-muziekButton: rgb(241, 167, 30) ;
+	--color-muziekActive: rgb(237, 185, 90) ;
+	--color-muziekHover: rgba(0, 0, 0, 0.4);
+
+	}
+}
+
+
+
 
 /**********************/
 /*font family's import*/
@@ -52,9 +83,8 @@ main article {
 	max-width: 60rem;
 	margin: 0 auto;
 	padding: 0vw 2vw 7vw 7vw;
-	border-left: 2px solid;
+	border-left: 2px solid var(--color-text);
 }
-
 
 h1 {
 	max-width: 60rem;
@@ -64,6 +94,7 @@ h1 {
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 1000;
 	font-size: 4em;
+	color: var(--color-text);
 }
 
 
@@ -99,7 +130,7 @@ main p {
 	line-height: 1.5;
 	padding: .2em 0 0 0;
 	margin: 0;
-
+color: var(--color-text);
 }
 
 
@@ -138,7 +169,7 @@ main section:first-of-type section a {
 	border-radius: 1px;
 	color: var(--border-blokjeA);
 	text-decoration: none;
-	margin: 0em 1em;
+	margin: 1em;
 
 }
 
@@ -352,6 +383,7 @@ header button img {
 /***************/
 header nav button {
 	justify-self: start;
+	margin: 1em 0 0 1em;
 }
 
 
@@ -515,6 +547,7 @@ form li {
 label {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: bold;
+	color: var(--color-label);
 }
 
 input {
@@ -528,9 +561,11 @@ input {
 
 input[type="submit"] {
 	background-color: var(--color-a);
-	color: var(--button-color);
+	color: var(--button-colorForm);
 	width: min-content;
 	line-height: 1.5em;
+	transition: .3s;
+	border:none;
 }
 
 
@@ -541,7 +576,9 @@ input:hover {
 
 input[type="submit"]:hover{
 	width:min-content;
-	
+	background-color:var(--color-hover);
+	transition: .1s;
+	border-radius: 20px;
 }
 
 
@@ -604,7 +641,7 @@ main section:last-of-type a:hover {
 .BodyMuziek main article section p{
 	display:flex;
 	align-items: center;
-	color:white;
+	color:var(--color-pMuziek);
 	text-align: center;
 	font-family: Impact, sans-serif;
 	font-size:2.4em;
@@ -613,8 +650,8 @@ main section:last-of-type a:hover {
 }
 
 .BodyMuziek main article section button{
-	background-color: rgb(241, 167, 30);
-	color: var(--background);
+	background-color: var(--color-muziekButton);
+	color: var(--color-pMuziek);
 height: 3em;
 font-size: 1.2em;
 border:none;
@@ -624,7 +661,7 @@ margin: 0 .5em;
 }
 
 .BodyMuziek main article section button:active{
-	background-color: rgb(237, 185, 90);
+	background-color:var(--color-muziekActive);
 }
 
 .BodyMuziek main article section {
@@ -634,7 +671,7 @@ margin: 0 .5em;
 	right: 0;
 	bottom: 0;
 	margin: 0;
-	background-color: rgba(0, 0, 0, 0.4);
+	background-color: var(--color-muziekHover);
 	display: grid;
 	opacity: 0;
 transition:.3s;
@@ -680,12 +717,3 @@ footer section a {
 }
 
 /*shift + iets is terug, k is links, h is koppen, tab is links en buttons*/
-
-/*bronnenlijst*/
-/*
-
-
-
-
-/* Learn web(03-08-2023) How To Overlay A Text On An Image | CSS Overlay[Video], 
-Youtube. Geraadpleegd op: 09-12-2023, van:https://www.youtube.com/watch?v=Qt-70hrdJZI
