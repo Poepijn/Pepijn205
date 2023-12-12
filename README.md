@@ -258,7 +258,8 @@ Wat ik geleerd heb is dat je niet alles met classes hoeft te doen maar ook vrij 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
 Waar ik moeite mee had waren de geavanceerde animaties/ states. Al mijn buttons en linkjes hebben relatief simpele states, ik heb hier best veel aandacht aan besteed maar ik begreep het gewoon niet.
-  <img src="readme-images/Schermopname(200).png" width="375px" ">
+ <img src="readme-images/Schermopname(200).png" width="375px" >
+
 </details>
 
 
