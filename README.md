@@ -1,4 +1,4 @@
-# Procesverslag
+![image](https://github.com/Poepijn/Pepijn205/assets/150830144/6e6cb446-0570-4c51-9418-ab77448d7f8a)# Procesverslag
 Markdown is een simpele manier om HTML te schrijven.  
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
@@ -245,19 +245,20 @@ Ik was deze week erg aan het struggelen met de selectoren. Doordat mijn code ste
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/" width="375px">
+  <img src="readme-images/Schermopname(201).png" width="375px">
+  <img src="readme-images/Schermopname(202).png" width="375px">
 
 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
 Wat ik geleerd heb is dat je niet alles met classes hoeft te doen maar ook vrij gemakkelijk dingen kan selecteren zonder, ook al heeft dit wel even geduurt voordat ik dit onder de knie hadt. Verder heb ik geleerd hoe je een website responsive maakt en dingen binnen je browser houdt. Ik heb hier voor dit vak onwijs veel moeite mee gehad en mijn website was altijd horizontaal aan het scrollen maar dat is deze keer wel gelukt.
-  <img src="readme-images/" width="375px" >
+  <img src="readme-images/Schermopname(199).png" width="375px" >
 
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
 Waar ik moeite mee had waren de geavanceerde animaties/ states. Al mijn buttons en linkjes hebben relatief simpele states, ik heb hier best veel aandacht aan besteed maar ik begreep het gewoon niet.
-  <img src="readme-images/" width="375px" ">
+  <img src="readme-images/Schermopname(200).png" width="375px" ">
 </details>
 
 
