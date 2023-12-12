@@ -24,33 +24,37 @@
 	--a-active: rgba(222, 97, 35, 0.751);
 	--color-footer-text: black;
 	--border-blokjeA: grey;
-	--color-muziekButton: rgb(241, 167, 30) ;
-	--color-muziekActive: rgb(237, 185, 90) ;
+	--color-muziekButton: rgb(241, 167, 30);
+	--color-muziekActive: rgb(237, 185, 90);
 	--color-muziekHover: rgba(0, 0, 0, 0.4);
 	--button-colorForm: white;
-	--color-label:black;
-	--color-pMuziek:white;
+	--color-label: black;
+	--color-pMuziek: white;
 
 }
 
+/***********/
+/*Dark mode*/
+/***********/
+
 @media (prefers-color-scheme:dark) {
-	:root { 
---background:rgb(66, 66, 66);
---menu-border:rgb(200, 200, 200);
---time-color:rgb(180, 180, 180);
---button-color: #262626;
---button-background: rgb(234, 234, 234);
---color-label:white;
---color-a: rgb(173, 121, 71);
-	--color-text: #f1f1f1;
-	--color-hover: rgb(233, 159, 95);
-	--focus-stateA: rgba(240, 171, 43, 0.626);
-	--a-active: rgba(222, 97, 35, 0.751);
-	--color-footer-text: rgb(236, 236, 236);
-	--border-blokjeA: grey;
-	--color-muziekButton: rgb(241, 167, 30) ;
-	--color-muziekActive: rgb(237, 185, 90) ;
-	--color-muziekHover: rgba(0, 0, 0, 0.4);
+	:root {
+		--background: rgb(66, 66, 66);
+		--menu-border: rgb(200, 200, 200);
+		--time-color: rgb(180, 180, 180);
+		--button-color: #262626;
+		--button-background: rgb(234, 234, 234);
+		--color-label: white;
+		--color-a: rgb(173, 121, 71);
+		--color-text: #f1f1f1;
+		--color-hover: rgb(233, 159, 95);
+		--focus-stateA: rgba(240, 171, 43, 0.626);
+		--a-active: rgba(222, 97, 35, 0.751);
+		--color-footer-text: rgb(236, 236, 236);
+		--border-blokjeA: grey;
+		--color-muziekButton: rgb(241, 167, 30);
+		--color-muziekActive: rgb(237, 185, 90);
+		--color-muziekHover: rgba(0, 0, 0, 0.4);
 
 	}
 }
@@ -128,9 +132,11 @@ main p {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 1.1em;
 	line-height: 1.5;
+	color: var(--color-text);
+
 	padding: .2em 0 0 0;
 	margin: 0;
-color: var(--color-text);
+
 }
 
 
@@ -159,16 +165,19 @@ main section:first-of-type section {
 	display: flex;
 	justify-content: center;
 	flex-wrap: wrap;
+
 	margin: 4vw 7vw 10vw;
 }
 
 main section:first-of-type section a {
 	font-family: 'Open Sans', sans-serif;
-	padding: 1em 1.5em;
-	border: solid 1px var(--border-blokjeA);
-	border-radius: 1px;
 	color: var(--border-blokjeA);
 	text-decoration: none;
+
+	border: solid 1px var(--border-blokjeA);
+	border-radius: 1px;
+
+	padding: 1em 1.5em;
 	margin: 1em;
 
 }
@@ -247,11 +256,6 @@ main section:first-of-type section a:active {
 
 
 
-
-
-
-
-
 /*************************************/
 /*linkje van ieder artikel(lees meer..)*/
 /*************************************/
@@ -277,14 +281,10 @@ main article>a:hover {
 
 
 
-
-
-
-
-
 /***********/
 /*Navigatie*/
 /***********/
+
 
 
 header {
@@ -326,7 +326,7 @@ header a {
 /****************/
 
 header>ul:last-of-type {
-	/* icon en tekst met gap-je naast elkaar */
+	/* icon en*/
 	display: flex;
 }
 
@@ -345,9 +345,9 @@ nav li {
 	padding: 0 0em 0em 2em;
 }
 
-header>ul:last-of-type img:hover{
-transform:scale(115%);
-transition:.2s;
+header>ul:last-of-type img:hover {
+	transform: scale(115%);
+	transition: .2s;
 }
 
 
@@ -361,11 +361,9 @@ transition:.2s;
 /*****************/
 header button {
 	padding: .5em .5em .2em;
-	appearance: none;
 	background-color: var(--button-background);
 	border: none;
 	border-radius: .25em;
-	text-align: center;
 	color: var(--button-color);
 }
 
@@ -385,9 +383,6 @@ header nav button {
 	justify-self: start;
 	margin: 1em 0 0 1em;
 }
-
-
-
 
 
 
@@ -432,14 +427,6 @@ header nav ul {
 
 
 
-
-
-
-
-
-
-
-
 /************************/
 /* EEN LINK IN DE LIJST */
 /************************/
@@ -460,11 +447,8 @@ nav a:hover {
 
 
 
-
-
-
 /****************************************************************/
-/* styling voor de header als de browser minimaal 70em breed is */
+/* styling voor de header als de browser minimaal 75em breed is */
 /****************************************************************/
 @media (min-width:75em) {
 	header>button {
@@ -506,8 +490,9 @@ nav a:hover {
 
 
 
-
-
+/******/
+/*form*/
+/******/
 
 main section:nth-of-type(2) {
 	background-image: url(../images/guus-fixed.jpg);
@@ -565,7 +550,7 @@ input[type="submit"] {
 	width: min-content;
 	line-height: 1.5em;
 	transition: .3s;
-	border:none;
+	border: none;
 }
 
 
@@ -574,9 +559,9 @@ input:hover {
 	transition: 30s;
 }
 
-input[type="submit"]:hover{
-	width:min-content;
-	background-color:var(--color-hover);
+input[type="submit"]:hover {
+	width: min-content;
+	background-color: var(--color-hover);
 	transition: .1s;
 	border-radius: 20px;
 }
@@ -584,7 +569,9 @@ input[type="submit"]:hover{
 
 
 
-
+/***********************/
+/* linkje in p van form*/
+/***********************/
 
 
 main section:last-of-type a {
@@ -627,43 +614,6 @@ main section:last-of-type a:hover {
 	position: relative;
 }
 
-.BodyMuziek main img {
-	display: block;
-	width: 100%;
-	height: auto;
-	transition: 1s;
-	opacity: 1;
-	z-index: 1;
-	margin: 0;
-	padding: 0;
-}
-
-.BodyMuziek main article section p{
-	display:flex;
-	align-items: center;
-	color:var(--color-pMuziek);
-	text-align: center;
-	font-family: Impact, sans-serif;
-	font-size:2.4em;
-	padding: 0;
-	
-}
-
-.BodyMuziek main article section button{
-	background-color: var(--color-muziekButton);
-	color: var(--color-pMuziek);
-height: 3em;
-font-size: 1.2em;
-border:none;
-font-family: 'Open Sans', sans-serif ;
-font-weight: 900;
-margin: 0 .5em;
-}
-
-.BodyMuziek main article section button:active{
-	background-color:var(--color-muziekActive);
-}
-
 .BodyMuziek main article section {
 	position: absolute;
 	top: 0;
@@ -674,33 +624,70 @@ margin: 0 .5em;
 	background-color: var(--color-muziekHover);
 	display: grid;
 	opacity: 0;
-transition:.3s;
+	transition: .3s;
 }
+
+
+.BodyMuziek main img {
+	display: block;
+	width: 100%;
+	height: auto;
+	transition: 1s;
+	opacity: 1;
+
+	margin: 0;
+	padding: 0;
+
+	z-index: 1;
+}
+
+.BodyMuziek main article section h2 {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: var(--color-pMuziek);
+	text-align: center;
+	font-family: Impact, sans-serif;
+	font-size: 2.4em;
+	padding: 0;
+	margin: 0;
+	font-weight: normal;
+}
+
+.BodyMuziek main article section button {
+	background-color: var(--color-muziekButton);
+	color: var(--color-pMuziek);
+	height: 3em;
+	font-size: 1.2em;
+	border: none;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 900;
+	margin: 0 .5em;
+}
+
+.BodyMuziek main article section button:active {
+	background-color: var(--color-muziekActive);
+}
+
 
 .BodyMuziek main article section:hover {
 	opacity: 1;
-	transition:.5s;
-}
-
-.BodyMuziek :first-of-type section article:active {
-	opacity: 1;
-	transition: .1s;
-
+	transition: .5s;
 }
 
 
 
 
 
-
-
-
-
+/********/
+/*footer*/
+/********/
 
 footer ul {
 	display: flex;
 	justify-content: center;
 	flex-wrap: wrap;
+	
 	margin: 1.5em 0;
 	padding: 0 5vw;
 }
