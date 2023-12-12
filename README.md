@@ -263,14 +263,35 @@ Ik was deze week erg aan het struggelen met de selectoren. Doordat mijn code ste
   Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg). 
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
+<ul>
+  <li>1. Learn web(03-08-2023) How To Overlay A Text On An Image | CSS Overlay[Video], 
+Youtube. Geraadpleegd op: 09-12-2023, van:https://www.youtube.com/watch?v=Qt-70hrdJZI</li>
+ <li>2. riajulislam(Z.D). facebook free icon. Geraadpleegd op: 02-12-2023, van:https://www.flaticon.com/free-icon/facebook_4494464?related_id=4494464&origin=pack</li> 
+  <li>3. riajulislam(Z.D). instagram free icon. Geraadpleegd op: 02-12-2023, van:https://www.flaticon.com/free-icon/instagram_4494468?related_id=4494468&origin=pack</li>
+ <li>4. riajulislam(Z.D). twitter free icon. Geraadpleegd op: 02-12-2023, van:https://www.flaticon.com/free-icon/twitter_4494465?related_id=4494465&origin=pack</li> 
+ <li> 5. riajulislam(Z.D). linkedin free icon. Geraadpleegd op: 02-12-2023, van:https://www.flaticon.com/free-icon/linkedin_4494471?related_id=4494471&origin=pack</li>
+ <li>6. riajulislam(Z.D). free Youtube icon. Geraadpleegd op: 02-12-2023, van:https://www.flaticon.com/free-icon/youtube_4494467?related_id=4494467&origin=pack</li> 
+ <li>7. Spek, L.(Z.D). Guus Meeuwis, we zijn alleen met vrienden. Geraadpleegd op: 05-12-2023, van:https://www.baarnschecourant.nl/lokaal/overig/946466/guus-meeuwis-we-zijn-alleen-met-vrienden</li> 
+ <li>8. Meeuwis, G(Z.D). Guus Geluk. Geraadpleegd op: 27-11-2023, van:https://guusmeeuwis.nl/category/muziek/ </li> 
+  <li>9. Meeuwis, G(Z.D). Morgen. Geraadpleegd op: 27-11-2023, van:https://guusmeeuwis.nl/category/muziek/ </li> 
+   <li>10. Meeuwis, G(Z.D). Hollandse Meesters. Geraadpleegd op: 27-11-2023, van:https://guusmeeuwis.nl/category/muziek/ </li> 
+   <li>11. Meeuwis, G(Z.D). Verbazing. Geraadpleegd op: 27-11-2023, van:https://guusmeeuwis.nl/category/muziek/ </li> 
+   <li>12. Meeuwis, G(Z.D). Schilderij. Geraadpleegd op: 27-11-2023, van:https://guusmeeuwis.nl/category/muziek/ </li> 
+   <li>13. Meeuwis, G(Z.D). Een voor allen. Geraadpleegd op: 27-11-2023, van:https://guusmeeuwis.nl/category/muziek/ </li> 
+   <li>14. Meeuwis, G(Z.D). Guus. Geraadpleegd op: 27-11-2023, van:https://guusmeeuwis.nl/category/muziek/ </li> 
+   <li>15. Meeuwis, G(Z.D). 10 jaar levensecht. Geraadpleegd op: 27-11-2023, van:https://guusmeeuwis.nl/category/muziek/ </li> 
+   <li>16. Meeuwis, G(Z.D). Wijzer. Geraadpleegd op: 27-11-2023, van:https://guusmeeuwis.nl/category/muziek/ </li> 
+   <li>17. Meeuwis, G(Z.D). Hemel nr. 7. Geraadpleegd op: 27-11-2023, van:https://guusmeeuwis.nl/category/muziek/ </li> 
+   <li>18. Meeuwis, G(Z.D). NW8. Geraadpleegd op: 27-11-2023, van:https://guusmeeuwis.nl/category/muziek/ </li> 
+   <li>19. Meeuwis, G(Z.D). Het kan hier zo mooi zijn. Geraadpleegd op: 27-11-2023, van:https://guusmeeuwis.nl/category/muziek/ </li> 
+   <li>20. Meeuwis, G(Z.D). Armen open. Geraadpleegd op: 27-11-2023, van:https://guusmeeuwis.nl/category/muziek/ </li> 
+</ul>
 
-  1. Learn web(03-08-2023) How To Overlay A Text On An Image | CSS Overlay[Video], 
-Youtube. Geraadpleegd op: 09-12-2023, van:https://www.youtube.com/watch?v=Qt-70hrdJZI
-  2. riajulislam(Z.D). facebook free icon. Geraadpleegd op: 02-12-2023, van:https://www.flaticon.com/free-icon/facebook_4494464?related_id=4494464&origin=pack
-  3. riajulislam(Z.D). instagram free icon. Geraadpleegd op: 02-12-2023, van:https://www.flaticon.com/free-icon/instagram_4494468?related_id=4494468&origin=pack
-  4. riajulislam(Z.D). twitter free icon. Geraadpleegd op: 02-12-2023, van:https://www.flaticon.com/free-icon/twitter_4494465?related_id=4494465&origin=pack
-  5. riajulislam(Z.D). linkedin free icon. Geraadpleegd op: 02-12-2023, van:https://www.flaticon.com/free-icon/linkedin_4494471?related_id=4494471&origin=pack
-  6. riajulislam(Z.D). free Youtube icon. Geraadpleegd op: 02-12-2023, van:https://www.flaticon.com/free-icon/youtube_4494467?related_id=4494467&origin=pack
-  7. 
+
+
+
+
+
+
 
 </details>
