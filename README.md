@@ -266,7 +266,11 @@ Ik was deze week erg aan het struggelen met de selectoren. Doordat mijn code ste
 
   1. Learn web(03-08-2023) How To Overlay A Text On An Image | CSS Overlay[Video], 
 Youtube. Geraadpleegd op: 09-12-2023, van:https://www.youtube.com/watch?v=Qt-70hrdJZI
-  2. bron 2
-  3. ...
+  2. riajulislam(Z.D). facebook free icon. Geraadpleegd op: 02-12-2023, van:https://www.flaticon.com/free-icon/facebook_4494464?related_id=4494464&origin=pack
+  3. riajulislam(Z.D). instagram free icon. Geraadpleegd op: 02-12-2023, van:https://www.flaticon.com/free-icon/instagram_4494468?related_id=4494468&origin=pack
+  4. riajulislam(Z.D). twitter free icon. Geraadpleegd op: 02-12-2023, van:https://www.flaticon.com/free-icon/twitter_4494465?related_id=4494465&origin=pack
+  5. riajulislam(Z.D). linkedin free icon. Geraadpleegd op: 02-12-2023, van:https://www.flaticon.com/free-icon/linkedin_4494471?related_id=4494471&origin=pack
+  6. riajulislam(Z.D). free Youtube icon. Geraadpleegd op: 02-12-2023, van:https://www.flaticon.com/free-icon/youtube_4494467?related_id=4494467&origin=pack
+  7. 
 
 </details>
