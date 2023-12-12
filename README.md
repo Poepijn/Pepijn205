@@ -217,8 +217,8 @@ Ik was deze week erg aan het struggelen met de selectoren. Doordat mijn code ste
    Het probleem wat ik had met de plaatjes over de nav.
     <img src="readme-images/Schermopname(196).png" width="375px">
     dark-mode setting
-     <img src="readme-images/Schermopname(197).png" width="375px">
-      <img src="readme-images/Schermopname(198).png" width="375px">
+     <img src="readme-images/Schermopname (197).png" width="375px">
+      <img src="readme-images/Schermopname (198).png" width="375px">
       De tijd in mijn html na de validator
  
   ### Agenda voor meeting
